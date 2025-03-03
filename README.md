@@ -1,2 +1,2 @@
 # calculator
-simple calculator to use on daily basis
+build simple calculator to use on daily basis.
